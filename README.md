@@ -44,3 +44,42 @@ data-driven decisions in **finance** and **business domains.**
 | **Cluster-Driven Sub-Universe Portfolio Optimization via Financial Statement Analysis**                                | Proposes a financial-statement-based clustering framework to build sub-universe portfolios that reduce computational complexity and empirically mitigate downside risk compared to random portfolios. | 2025.03 - 2025.08 |
 
 ---
+
+## 💼 Project Experience
+
+</div>
+
+| **Title**                                                                                                                                                                     | **Description**                                                                                                                                                                                                                                                                                          | **Tools Used**        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Risk Hedge-Based ETF Recommendation Services**                                   | After analyzing the customer’s investment propensity using LLM, developing a service that recommends personalized ETF stocks | Python |
+| **Financial Dashboards Using Simulation Models**                                   | Model financial markets with simulation models and visualize with tableau                                                                                                                                                                                               | Python, Tableau |
+| **Concept Visualization System for Teaching Borderline Intellectually Functional Students**                       | Output Text Input to Image using AutoEncoders, GAN, C-GAN, Diffusion, and Stable diffusion models                                                                                                                                                                                                     | Python |
+| **Improvement Ideas for the Wrist Doctor 9988 Obesity Management Service**                                                      | Use association and cluster analysis to introduce a new health scoring system                                                                                                                                                                         | Python |
+| **Web-Design : Restaurant System**                                       | Designed a restaurant database using phpMyAdmin and developed a PHP-based web interface that allows the owner to easily manage menu, orders, customer information, and sales                                                                                                                                                                        | HTML, SQL, PHP |
+
+---
+
+<div align="center">
+  
+## 🏆 Awards
+
+</div>
+
+- **2024.01:** 2024 Kyunghee University Valley Program, **1st Prize**
+
+---
+
+## 🎯 Extracurricular Activity
+
+</div>
+
+- **Kyunghee University Data Analysis Club (5th)**
+  - Financial Machine Learning
+- **Dept. of Industrial and Management Systems Engineering, Student Council**
+  - Junior Year Class President
+  - Director of Planning
+- **Residential Mentor at KyungHee University Dormitory**
+  - Deputy Head Mentor
+- **College of Interdisciplinary Studies, Kyung Hee University**
+  - Mentor
+
