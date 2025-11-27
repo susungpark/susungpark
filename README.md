@@ -1,4 +1,4 @@
-# Park Sung-su
+# Hello, I'm Park Sung-su! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 🎓 Undergraduate majoring in **Industrial & Management Systems Engineering** and **Software Convergence**
 
