@@ -1,16 +1,46 @@
-## Hi there 👋
+# Park Sung-su
 
-<!--
-**susungpark/susungpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate majoring in **Industrial & Management Systems Engineering** and **Software Convergence**
 
-Here are some ideas to get you started:
+I am interested in applying **Deep learning** and **Multivariate Time Series Data Analysis**, **Anomaly detection** to generate actionable insights that inform
+data-driven decisions in **finance** and **business domains.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** [qocn0123@gmail.com](mailto:qocn0123@gmail.com)
+
+## Languages and Tools
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+---
+
+<div align="center">
+  
+## 🎓 Career and Academic Experience
+
+| Company / Lab / School                    | Position                       | Period            |
+| ----------------------------------------- | ------------------------------ | ----------------- |
+| ViBA Lab, Seoul National Univ             | Lab Intern                     | 2025-09 — 2025-11 |
+| KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02 |
+| Naver Smart Store, NAVER                  | Founder and Operator           | 2023-05 — 2025-12 |
+| KHU Industrial and Management Engineering | Undergraduate                  | 2020-02 — 2026-02 |
+
+</div>
+
+## 📄 Publication
+
+</div>
+
+| **Title** | **Journal Name** | **Volume and Issue** | **Publication Date** |
+| --------- | ---------------- | -------------------- | -------------------- |
+| [**Deciphering the Impact of COVID-19 on Korean Sector ETFs: Insights from An ARIMAX and Granger Causality**](https://www.mdpi.com/2079-8954/13/8/678) | Systems | Vol. 13, Issue 8 | 2025-08-09 |
+
+---
+
+## 🧐 Research
+
+</div>
+
+| **Title**                                                                                                                                                                     | **Description**                                                                                                                                                                                                                                                                                          | **Period**        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Cluster-Driven Sub-Universe Portfolio Optimization via Financial Statement Analysis**                                | Proposes a financial-statement-based clustering framework to build sub-universe portfolios that reduce computational complexity and empirically mitigate downside risk compared to random portfolios. | 2025.03 - 2025.08 |
+
+---
