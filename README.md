@@ -18,6 +18,7 @@ data-driven decisions in **finance** and **business domains.**
 
 | Company / Lab / School                    | Position                       | Period            |
 | ----------------------------------------- | ------------------------------ | ----------------- |
+| DMQA Lab, Korea Univ                      | Graduate Researcher            | 2026-02 — current |
 | ViBA Lab, Seoul National Univ             | Lab Intern                     | 2025-09 — 2025-11 |
 | KHU Software Convergence                  | Undergraduate(Double Major)    | 2024-02 — 2026-02 |
 | Naver Smart Store, NAVER                  | Founder and Operator           | 2023-05 — 2025-12 |
